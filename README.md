@@ -1,6 +1,6 @@
 # BubbleDraw
 ## Objective
-This app app was developed with the intent to learn how the paintComponent method for Java desktop apps development works. To update objects moving on the screen ins real time, the timer method was also used.
+This app app was developed with the intent to learn how the paintComponent method for Java desktop apps development works. The timer method was also used to update objects moving on the screen ins real time.
 
 ## App Features
 As the mouse pointer clicks through the app window, bubbles are drawn onscreen, moving in a random direction each one of them, or in groups, defined by the user, as their position change across the screen in real time.
